@@ -1,0 +1,12 @@
+.course-card {
+  display: flex;
+  border-radius: 20px;
+  justify-content: center;
+  width: 100%;
+  padding: 3em 2em;
+}
+
+.course-card-content {
+  box-shadow: 0 10px 20px rgba(60, 17, 216, 0.19), 0 6px 6px rgba(0,0,0,0.23);
+  padding: 1em 1.5em;
+}
